@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name='SSH-It',
+    name='SSHIT!',
     packages=['src'],
     version='0.0.0',
     description='Simple SSH CLI',
